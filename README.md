@@ -1,4 +1,4 @@
-Hi there! I’m **Saket Dwaraka Bhamidipati**, a pre-final-year Computer Science & Engineering student at **VIT Vellore** (graduating in July 2026). I’m passionate about building impactful solutions that merge *innovation* with *scalability*, and I thrive on tackling challenges with a creative, problem-solving mindset.
+Hi there! I’m **Saket Dwaraka Bhamidipaati**, a pre-final-year Computer Science & Engineering student at **VIT Vellore** (graduating in July 2026). I’m passionate about building impactful solutions that merge *innovation* with *scalability*, and I thrive on tackling challenges with a creative, problem-solving mindset.
 
 What I’m Up To:  
 - 🚀 **Projects**: Building tools like *Chatify*, a real-time chat application using the MERN stack, and *Muffled Music*, a fully responsive headphone e-commerce website, among others.    
