@@ -42,7 +42,3 @@ I love working at the **intersection of technology, business, and innovation**!
   <img src="https://github-readme-stats.vercel.app/api?username=Saket-db&show_icons=true&theme=tokyonight" width="48%" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket-db&layout=compact&theme=tokyonight" width="48%" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saket-db&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=5" width="90%"/>
-</p>
