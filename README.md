@@ -84,10 +84,6 @@ I love working at the **intersection of technology, business, and innovation**!
 
 ## 🐍 GitHub Contribution Snake  
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saket-db/Saket-db/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saket-db/Saket-db/output/github-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Saket-db/Saket-db/output/github-snake.svg" />
-  </picture>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Saket-db/Saket-db/output/snake.svg" alt="Snake animation" />
+</div>
