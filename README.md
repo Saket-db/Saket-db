@@ -42,3 +42,10 @@ I love working at the **intersection of technology, business, and innovation**!
   <img src="https://github-readme-stats.vercel.app/api?username=Saket-db&show_icons=true&theme=tokyonight" width="48%" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket-db&layout=compact&theme=tokyonight" width="48%" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saket-db/Saket-db/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saket-db/Saket-db/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Saket-db/Saket-db/output/github-snake.svg" />
+</picture>
+
