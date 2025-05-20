@@ -26,23 +26,6 @@ I love working at the **intersection of technology, business, and innovation**!
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/saket-dwaraka-bhamidipaati-97b56b252/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/Saket_db">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/saket_db/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack  
-
 ## 💻 Tech Stack  
 
 ### 🌐 Frontend  
