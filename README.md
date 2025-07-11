@@ -11,6 +11,7 @@
 ## 🚀 What I’m Up To  
 
 ### 🔨 Projects  
+- **PrepAIre** - An AI-Powered career counselling platform.
 - **Chatify** – A real-time chat application using the **MERN** stack.  
 - **Muffled Music** – A fully responsive **headphone e-commerce** website.  
 - *And many more...*
