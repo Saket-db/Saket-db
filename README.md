@@ -11,9 +11,9 @@
 ## 🚀 What I’m Up To  
 
 ### 🔨 Projects  
-- **PrepAIre** - An AI-Powered career counselling platform.
+- **HorizonAI** - An AI-Powered career counselling platform.
+- **FlightFlow AI** - An AI-powered flight scheduling and delay prediction system for congested airports (Mumbai/Delhi)
 - **Chatify** – A real-time chat application using the **MERN** stack.  
-- **Muffled Music** – A fully responsive **headphone e-commerce** website.  
 - *And many more...*
 
 ### 🤝 Collaborating On  
