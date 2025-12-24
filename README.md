@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Few Projects
 - HorizonAI — AI-powered career counselling.
 - FlightFlow AI — Flight scheduling & delay prediction for congested airports.
 - Chatify — Real-time chat app (MERN).
@@ -58,7 +58,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saket-db&show_icons=true&theme=tokyonight" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Saket-db&show_icons=true&theme=tokyonight" width="48%" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket-db&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
