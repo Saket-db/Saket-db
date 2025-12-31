@@ -56,14 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Saket-db&show_icons=true&theme=tokyonight" width="48%" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket-db&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Saket-db/Saket-db/output/snake.svg" alt="Snake animation" width="520" />
