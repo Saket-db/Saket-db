@@ -11,10 +11,10 @@
 
 ---
 
-## 🚀 Few Projects
-- HorizonAI — AI-powered career counselling.
-- FlightFlow AI — Flight scheduling & delay prediction for congested airports.
-- Chatify — Real-time chat app (MERN).
+## 🚀 Projects, I have built
+- HorizonAI — A full-stack AI career assistance platform built using Next.js, TypeScript, Tailwind CSS, and NeonDB, integrated with Google Gemini LLM and Inngest for resume analysis, career roadmap generation, and AI-driven chat.
+- FlightFlow AI — An AI-powered flight scheduling and delay prediction system for congested airports, built using Python libraries such as Pandas and scikit-learn, with a dashboard developed using Next.js and FastAPI.
+- Chatify — A real-time chat application built using the MERN stack, implementing Socket.IO for seamless real-time communication among users.
 
 ---
 
